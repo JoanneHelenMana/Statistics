@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statistics", "Statistics\Statistics.csproj", "{DDF58A03-4070-45B2-A929-C8DCCDDEE1FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D5B6257-0391-487A-9A4B-0BD227977CD2}"
+	ProjectSection(SolutionItems) = preProject
+		Exercise - Simple Statistics.pdf = Exercise - Simple Statistics.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF58A03-4070-45B2-A929-C8DCCDDEE1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF58A03-4070-45B2-A929-C8DCCDDEE1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF58A03-4070-45B2-A929-C8DCCDDEE1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF58A03-4070-45B2-A929-C8DCCDDEE1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F7F1BA3-EB6B-44FC-B0E8-6F3DDD184E6A}
+	EndGlobalSection
+EndGlobal
