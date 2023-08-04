@@ -5,11 +5,6 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statistics", "Statistics\Statistics.csproj", "{DDF58A03-4070-45B2-A929-C8DCCDDEE1FE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D5B6257-0391-487A-9A4B-0BD227977CD2}"
-	ProjectSection(SolutionItems) = preProject
-		Exercise - Simple Statistics.pdf = Exercise - Simple Statistics.pdf
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
